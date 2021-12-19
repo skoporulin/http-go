@@ -1,6 +1,6 @@
 # Simple HTTP server
 
-Writen on GO based on standard library.
+Writen on GO based on standard library and Google's distroless: <https://github.com/GoogleContainerTools/distroless>.
 
 Build image:
 **docker build -t http-go .**
